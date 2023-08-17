@@ -10,7 +10,7 @@ public class GitController {
 
     @GetMapping
     public void test(){
-        System.out.println("테스트");
+        System.out.println("테스트2");
     }
 
 
